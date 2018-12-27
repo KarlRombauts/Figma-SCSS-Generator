@@ -1,5 +1,7 @@
 # Figma style generator
 
+## Please note that this is currently a proof of concept and is not ready to be used. I hope this proves to be useful to anyone who is also playing around with Figma's API
+
 ## Overview
 This tool allows a user to export a scss file containing all the font, gradient, and color variables for a given document. Functionality could be expanded to include standard button styles and general component styles.
 
